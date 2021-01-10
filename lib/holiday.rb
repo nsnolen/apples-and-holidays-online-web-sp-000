@@ -77,3 +77,6 @@ holiday_hash.each do |season, holidays|
       if supplies == "BBQ"
       puts "#{holiday}"
     end
+  end
+end
+end
