@@ -52,6 +52,7 @@ def all_winter_holiday_supplies(holiday_hash)
     if holiday != "Lights" then
     supplies << "Lights"
   end
+  end
   holiday_hash[:winter].flatten
 
 end
